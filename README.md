@@ -1,17 +1,23 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
+This project is a database system for managing the inventory of ecommerce business. 
+It allows users to track products, manage sales, and analyze inventory performance."
+
 ## Project/Goals
-(fill in your description and goals here)
+using the data ecommerce have to answer business questions
 
 ## Process
-### (your step 1)
-### (your step 2)
+uploading data in pgadmin
+Cleaning columns that contain answers to my questions
+explore the data and see if there questions about it and get the answers
+Perform quality analysis
+
 
 ## Results
 (fill in what you discovered this data could tell you and how you used the data to answer those questions)
 
 ## Challenges 
-(discuss challenges you faced in the project)
+The whole data is messy and so hard to figure out
 
 ## Future Goals
-(what would you do if you had more time?)
+Completely clean the whole data and make it easy to work with

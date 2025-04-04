@@ -44,6 +44,8 @@ The answer to the question
 
 ## Part 5: QA Your Data
 
+Data integrity
+
 In the **QA.md** file, identify and describe your risk areas. Develop and execute a QA process to address them and validate the accuracy of your results. Provide the SQL queries used to execute the QA process.
 
 
